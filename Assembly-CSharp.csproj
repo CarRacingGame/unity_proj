@@ -67,8 +67,11 @@
   <ItemGroup>
     <Compile Include="Assets/PROMETEO - Car Controller/Scripts/PrometeoTouchInput.cs" />
     <Compile Include="Assets/PROMETEO - Car Controller/Scripts/CameraFollow.cs" />
+    <Compile Include="Assets/CarUIObj.cs" />
+    <Compile Include="Assets/TimeController.cs" />
     <Compile Include="Assets/CheckpointManger.cs" />
     <Compile Include="Assets/PROMETEO - Car Controller/Scripts/PrometeoCarController.cs" />
+    <Compile Include="Assets/RaceManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
