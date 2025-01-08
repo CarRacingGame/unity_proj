@@ -67,6 +67,7 @@
   <ItemGroup>
     <Compile Include="Assets/PROMETEO - Car Controller/Scripts/PrometeoTouchInput.cs" />
     <Compile Include="Assets/PROMETEO - Car Controller/Scripts/CameraFollow.cs" />
+    <Compile Include="Assets/CheckpointManger.cs" />
     <Compile Include="Assets/PROMETEO - Car Controller/Scripts/PrometeoCarController.cs" />
   </ItemGroup>
   <ItemGroup>
